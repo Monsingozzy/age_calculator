@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/age_calculator/precache-manifest.38c3666be64a77e923332aa908deae9d.js"
+  "/React-age-calculator/precache-manifest.405c1dc735aeec3bcef88d72a062e3df.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/age_calculator/index.html", {
+workbox.routing.registerNavigationRoute("/React-age-calculator/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
