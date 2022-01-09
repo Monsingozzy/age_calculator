@@ -2,7 +2,7 @@
   "name": "age-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Monsingozzy.github.io/React-age-calculator",
+  "homepage": "http://monsingozzy.github.io/React-age-calculator",
   "dependencies": {
     "-": "^0.0.1",
     "bootstrap": "^4.1.3",
