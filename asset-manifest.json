@@ -1,15 +1,15 @@
 {
-  "main.css": "/React-age-calculator/static/css/main.18642282.chunk.css",
-  "main.js": "/React-age-calculator/static/js/main.b2e2b463.chunk.js",
-  "main.js.map": "/React-age-calculator/static/js/main.b2e2b463.chunk.js.map",
-  "runtime~main.js": "/React-age-calculator/static/js/runtime~main.80b0926c.js",
-  "runtime~main.js.map": "/React-age-calculator/static/js/runtime~main.80b0926c.js.map",
-  "static/css/2.af139f62.chunk.css": "/React-age-calculator/static/css/2.af139f62.chunk.css",
-  "static/js/2.ac09f78b.chunk.js": "/React-age-calculator/static/js/2.ac09f78b.chunk.js",
-  "static/js/2.ac09f78b.chunk.js.map": "/React-age-calculator/static/js/2.ac09f78b.chunk.js.map",
-  "index.html": "/React-age-calculator/index.html",
-  "precache-manifest.405c1dc735aeec3bcef88d72a062e3df.js": "/React-age-calculator/precache-manifest.405c1dc735aeec3bcef88d72a062e3df.js",
-  "service-worker.js": "/React-age-calculator/service-worker.js",
-  "static/css/2.af139f62.chunk.css.map": "/React-age-calculator/static/css/2.af139f62.chunk.css.map",
-  "static/css/main.18642282.chunk.css.map": "/React-age-calculator/static/css/main.18642282.chunk.css.map"
+  "main.css": "/age_calculator/static/css/main.18642282.chunk.css",
+  "main.js": "/age_calculator/static/js/main.02ea654d.chunk.js",
+  "main.js.map": "/age_calculator/static/js/main.02ea654d.chunk.js.map",
+  "runtime~main.js": "/age_calculator/static/js/runtime~main.f41b0670.js",
+  "runtime~main.js.map": "/age_calculator/static/js/runtime~main.f41b0670.js.map",
+  "static/css/2.af139f62.chunk.css": "/age_calculator/static/css/2.af139f62.chunk.css",
+  "static/js/2.ac09f78b.chunk.js": "/age_calculator/static/js/2.ac09f78b.chunk.js",
+  "static/js/2.ac09f78b.chunk.js.map": "/age_calculator/static/js/2.ac09f78b.chunk.js.map",
+  "index.html": "/age_calculator/index.html",
+  "precache-manifest.a834979a0fd032c6392a2302a5e76c2a.js": "/age_calculator/precache-manifest.a834979a0fd032c6392a2302a5e76c2a.js",
+  "service-worker.js": "/age_calculator/service-worker.js",
+  "static/css/2.af139f62.chunk.css.map": "/age_calculator/static/css/2.af139f62.chunk.css.map",
+  "static/css/main.18642282.chunk.css.map": "/age_calculator/static/css/main.18642282.chunk.css.map"
 }
